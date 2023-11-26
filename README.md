@@ -6,9 +6,13 @@ Welcome to the Twitter Analysis Project! This endeavor delves into the expansive
 Utilizing a dataset composed of JSON strings, we focus primarily on tweets. Our approach leverages the scalability and speed of PySpark to process large volumes of data, applying RDD transformations, MapReduce methods for distributed computing, and DataFrame operations for structured data analysis.
 
 This project is an excellent showcase of big data processing capabilities, offering insights into the nuances of social media interactions and trends on Twitter.
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="https://www.mytechmint.com/wp-content/uploads/2021/03/PySpark-Tutorial-myTechMint.jpeg" alt="Image 1" style="width: 100%; max-width: 300px; height: auto;">
+</div>
+<div style="display: inline-block;">
+    <img src="https://laverdadnoticias.com/export/sites/laverdad/img/2023/08/31/twitter_cambio_su_logo_por_la_x.jpg_939674776.jpg" alt="Image 2" style="width: 100%; max-width: 300px; height: auto;">
+</div>
 
-![pyspark](https://www.mytechmint.com/wp-content/uploads/2021/03/PySpark-Tutorial-myTechMint.jpeg)
-![twitter](https://laverdadnoticias.com/export/sites/laverdad/img/2023/08/31/twitter_cambio_su_logo_por_la_x.jpg_939674776.jpg)
 ## Data Overview
 The analysis utilizes two primary data sources:
 
